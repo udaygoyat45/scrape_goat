@@ -1,0 +1,7 @@
+requests>=2.31.0
+stem>=1.8.2
+undetected-chromedriver>=3.5.4
+selenium>=4.16.0
+pymongo>=4.6.1
+python-dotenv>=1.0.0
+certifi>=2023.11.17
