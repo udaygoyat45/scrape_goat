@@ -1,0 +1,4 @@
+tor_confs
+myenv
+__pycache__
+.env
